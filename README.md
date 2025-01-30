@@ -60,7 +60,7 @@ This section outlines the key steps involved in setting up the pool application:
 
 ## Deployment 🛠️
 
-1. **Clone the repository:** `git clone https://github.com/your-username/pool-app.git`
+1. **Clone the repository:** `git clone https://github.com/abdoelwaly/aws-serverless-project-pool-app.git`
 2. **Deploy the AWS resources:** Use the provided AWS CloudFormation template or deploy the resources manually.
 3. **Configure API Gateway:** Set up the custom domain, certificates, and API mappings.
 4. **Upload the frontend files:** Upload the HTML pages to the S3 bucket.
